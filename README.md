@@ -4,13 +4,13 @@
 Passionate about creating innovative games and robust software solutions.
 
 ## 🛠️ Skills
-- **Software Development:** C#, JavaScript, PHP, .NET Core, Python, React.js, Unity3D, Unreal Engine  
-- **Frameworks:** Angular, Vue.js, Laravel  
-- **Databases:** MySQL, SQLServer, PostgreSQL, MongoDB  
-- **Tools:** Docker, GitHub, ESP32, RESTful APIs  
-- **Web Development:** HTML, CSS, JavaScript, React.js  
-- **Game Development:** Unity3D, Game Design, Android/iOS Development  
-- **Agile Methodologies:** SCRUM, Kanban  
+• **Languages:** C#, Java, JavaScript, PHP, Python, C++
+• **Frameworks & Technologies:** .NET Core, React.js, Angular, Vue.js, Laravel, Spring Boot, JSF, PrimeFaces, JPA, Hibernate, HTML, CSS, Microservices, CI/CD, AWS, Azure DevOps, Authentication / Authorization (OAuth, JWT)
+• **Architecture:** RESTful APIs, MVC, Clean Architecture, SOLID, Design Patterns, Singleton, Factory, Strategy, Observer, Builder, Adapter, API Documentation (Swagger/OpenAPI)
+• **Game Development:** Unity3D, Unreal Engine, Game Design, Android/iOS Deployment
+• **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
+• **Tools:** Docker, Git, GitHub, Azure, ESP32
+• **Agile Methodologies:** SCRUM, Kanban
 
 ## 🚀 Projects
 1. [**Portfolio Website**](https://github.com/Gusbaldo123/Portfolio_Website): A showcase of my work and skills using React.js.  
